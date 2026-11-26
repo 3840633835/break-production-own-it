@@ -1,0 +1,1 @@
+I fixed the 500 errors by returning 200 with an empty page. The errors are gone. So is the site.
